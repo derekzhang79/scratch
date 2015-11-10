@@ -1,2 +1,4 @@
 # scratch
-the scratch program
+
+This is Martin's information homework. I hope you like it.
+
